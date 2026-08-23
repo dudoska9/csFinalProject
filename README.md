@@ -1,4 +1,5 @@
 # csFinalProject
+IMPORTANT: need to have graphics.h library installed first
 I implemented this project by using C++ and the graphics.h library. I created a straightforward ticket
 booking system in C++. In this system, I wanted to design an engaging and interactive program where
 users can click to book any seat of a cinema and mark it as booked.
